@@ -1,0 +1,8 @@
+{
+    "name": "mmm-rcwl0516",
+    "version": "1.0.0",
+    "description": "MagicMirror module for RCWL-0516 motion sensor",
+    "main": "MMM-RCWL0516.js",
+    "author": "a",
+    "license": "MIT"
+}
